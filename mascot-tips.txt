@@ -1,0 +1,20 @@
+Penny can give financial tips. These include:
+- exceeding budget or staying under budget
+- notable patterns in spending
+- possible unnecessary spends
+- how the user compares to other users of similar age group
+- what the highest/lowest spent category is
+- subscription services the user pays for
+- most often visited place eg a shop or restaurant
+- allows for a calendar to track each days' activities to explain possible over budget spending
+
+Penny lines:
+
+Introductory:
+"Hi! I'm Penny. I'm your go-to finance helper for [APPNAME]."
+"Would you like a quick tutorial on how [APPNAME] works?"
+
+Exceeding budget:
+"This month, you've exceeded your budget of [BUDGET] by [EXCEEDAMOUNT]. :(."
+
+
