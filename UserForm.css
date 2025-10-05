@@ -1,0 +1,81 @@
+@font-face {
+    font-family: Dynapuff;
+    src: url(../DynaPuff-VariableFont_wdth\,wght.ttf);
+}
+
+input{
+    background: lightgrey;
+    border: transparent;
+}
+
+input:focus{
+    border: transparent;
+}
+
+html{
+    background-color: #C1CB79;
+    font-family: Dynapuff;
+}
+
+.savingsWindowDiv{
+    width: 12rem;
+    height: 6rem;
+    background-color: white;
+    
+    position: absolute;
+    left: 35%;
+    top: 16.5%;
+}
+
+.expenditureWindowDiv{
+    width: 12rem;
+    height: 25rem;
+    background-color: white;
+    
+    position: absolute;
+    left: 60%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    top: 52.5%;
+}
+
+.monthTitleDiv{
+    width: 9rem;
+    height: 3rem;
+    background-color: white;
+    border-radius: 5%;
+
+    position: absolute;
+    left: 45.5%;
+    top: 5%;
+
+}
+
+.netMoneyDiv{
+    width: 12rem;
+    height: 6rem;
+    background-color: white;
+    border-radius: 5%;
+
+    position: absolute;
+    left: 35%;
+    top: 40%;
+}
+
+.investmentsDiv{
+    width: 12rem;
+    height: 6rem;
+    background-color: white;
+    border-radius: 5%;
+
+    position: absolute;
+    left: 35%;
+    top: 65%;
+}
+
+.mascotDiv{
+    width: 6rem;
+    height: 6rem;
+
+    position: absolute;
+}
